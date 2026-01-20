@@ -1,7 +1,7 @@
 # Car Price Prediction leveraging CRISP-DM framework and regression models  
 
 # Notebook link: 
-https://github.com/rakeshagf/car_price_prediction/blob/main/carprice_prediction.ipynb
+https://github.com/rakeshagf/car_price_prediction/blob/main/carprice_prediction_v1.ipynb
 
 # Problem
 The goal of this project is to understand what factors make a car more or less expensive. As a result of analysis, we need to provide clear recommendations to client -- a used car dealership -- as to what consumers value in a used car.
